@@ -1,6 +1,6 @@
 
 
-# expanding_cards
+# Expanding cards
 
 ### I'm using this little projects to improve my javascript knowledge and logic
 
